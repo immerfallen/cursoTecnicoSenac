@@ -1,0 +1,34 @@
+FASE 4
+
+
+ALTER TABLE funcionarios ADD cpf int(11);
+
+select*from selecionados;
+
+UPDATE funcionarios SET nomeFuncionario = 'João Paulo', setorFuncionario = 'Atendente de padaria', cpf = 1234567899 WHERE idFuncionario = 1;
+
+UPDATE funcionarios SET nomeFuncionario = 'Adamastor Júnior', setorFuncionario = 'Repositor', cpf = 22566936987 WHERE idFuncionario = 2;
+
+UPDATE funcionarios SET nomeFuncionario = 'Ana Cláudia', setorFuncionario = 'Atendente de caixa', cpf = 99885563591 WHERE idFuncionario = 3;
+
+UPDATE funcionarios SET nomeFuncionario = 'Amanda Carvalho', setorFuncionario = 'Atendente de caixa', cpf = 45874466301 WHERE idFuncionario = 4;
+
+UPDATE funcionarios SET nomeFuncionario = 'Clóvis Nogueira', setorFuncionario = 'Atendente de padaria', cpf = 78989758962 WHERE idFuncionario = 5;
+
+insert into (nomeFuncionario, setorFuncionario, cpf) values ('Clóvis Nogueira', 'Atendente de padaria', 78989758962)
+
+
+
+
+
+
+
+parte 3
+
+CREATE TABLE funcionarios ( idFuncionario INT PRIMARY KEY AUTO_INCREMENT, nomeFuncionario VARCHAR(200), setorFuncionario VARCHAR(80) );
+
+insert into funcionarios (nomefuncionario, setorfuncionario) values ('João Paulo','Atendente de padaria');
+
+insert into funcionarios (nomefuncionario, setorfuncionario) values ('Adamastor Júnior','Repositor');
+
+insert into funcionarios (nomefuncionario, setorfuncionario) values ('Ana Cláudia','Atendente de caixa');

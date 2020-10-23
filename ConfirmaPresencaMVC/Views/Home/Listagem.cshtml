@@ -1,0 +1,39 @@
+@model List<Convidado>
+<h2> Listagem dos convidados que confirmaram presença:</h2>
+
+<table>
+    <thead>
+        <tr>
+            <th>Nome</th>
+            <th>Idade</th>
+            <th>Telefone</th>
+            <th>Confirmado</th>     
+        </tr>
+    </thead>
+    <tbody>   
+        @foreach (Convidado a in Model)
+        {
+           
+            
+                    
+        <tr >
+            <th>@a.Nome</th>
+            <th>@a.Idade</th>
+            <th>@a.Telefone</th>
+            <th> 
+                @if(a.Confirma)
+            {
+                <p>Sim</p>
+            }
+                else
+            {
+                <p>Não</p>
+            }
+           </th>     
+        </tr>
+        }      
+       
+    </tbody>
+</table>
+
+<p><a asp-action="Confirma">Confirmar novo convidado.</a></p>

@@ -1,0 +1,11 @@
+C:\Users\maro_\Desktop\geradorSenha\geradorSenha\geradorSenha\bin\Debug\netcoreapp3.0\geradorSenha.exe
+C:\Users\maro_\Desktop\geradorSenha\geradorSenha\geradorSenha\bin\Debug\netcoreapp3.0\geradorSenha.deps.json
+C:\Users\maro_\Desktop\geradorSenha\geradorSenha\geradorSenha\bin\Debug\netcoreapp3.0\geradorSenha.runtimeconfig.json
+C:\Users\maro_\Desktop\geradorSenha\geradorSenha\geradorSenha\bin\Debug\netcoreapp3.0\geradorSenha.runtimeconfig.dev.json
+C:\Users\maro_\Desktop\geradorSenha\geradorSenha\geradorSenha\bin\Debug\netcoreapp3.0\geradorSenha.dll
+C:\Users\maro_\Desktop\geradorSenha\geradorSenha\geradorSenha\bin\Debug\netcoreapp3.0\geradorSenha.pdb
+C:\Users\maro_\Desktop\geradorSenha\geradorSenha\geradorSenha\obj\Debug\netcoreapp3.0\geradorSenha.csprojAssemblyReference.cache
+C:\Users\maro_\Desktop\geradorSenha\geradorSenha\geradorSenha\obj\Debug\netcoreapp3.0\geradorSenha.AssemblyInfoInputs.cache
+C:\Users\maro_\Desktop\geradorSenha\geradorSenha\geradorSenha\obj\Debug\netcoreapp3.0\geradorSenha.AssemblyInfo.cs
+C:\Users\maro_\Desktop\geradorSenha\geradorSenha\geradorSenha\obj\Debug\netcoreapp3.0\geradorSenha.dll
+C:\Users\maro_\Desktop\geradorSenha\geradorSenha\geradorSenha\obj\Debug\netcoreapp3.0\geradorSenha.pdb

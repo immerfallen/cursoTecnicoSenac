@@ -1,0 +1,36 @@
+@model List<Cadastro>
+
+
+<h2>Dados cadastrados: </h2>
+
+<table>
+    <thead>
+        <tr>
+            <th>Nome </th>
+            <th>Telefone</th>
+            <th>Data</th>
+            <th>Animal</th>  
+            <th>Necessidade</th>  
+        </tr>
+    </thead>
+    
+    <tbody>         
+            @foreach (Cadastro a in Model)
+            {
+        <tr>
+            <th>@a.Nome</th>
+            <th>@a.Telefone</th>
+            <th>@a.Data</th>
+            <th>@a.Animal</th>
+            <th>@a.Necessidade</th>              
+                          
+        </tr>   
+            }             
+       
+    </tbody>
+</table>
+
+<p> <a asp-action="Agendamento"> Realizar novo cadastro</a></p>
+
+        
+

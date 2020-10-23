@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "BANnNlFtiprJEe6KvCU4NKoRjT+rJUkqfdrjVu0QBSrvurXi9WFNYJyNHGslsKdDRmNXpdvMyfC2QqbL0lsuRA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\maro_\\Desktop\\CSharp\\Projeto integrador\\SiteMVC\\SiteMVC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maro_\\.nuget\\packages\\mysqlconnector\\0.66.0\\mysqlconnector.0.66.0.nupkg.sha512",
+    "C:\\Users\\maro_\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

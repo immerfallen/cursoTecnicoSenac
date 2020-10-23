@@ -1,0 +1,102 @@
+-- phpMyAdmin SQL Dump
+-- version 5.0.1
+-- https://www.phpmyadmin.net/
+--
+-- Host: 127.0.0.1
+-- Tempo de geração: 14-Maio-2020 às 17:57
+-- Versão do servidor: 10.4.11-MariaDB
+-- versão do PHP: 7.4.3
+
+SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
+SET AUTOCOMMIT = 0;
+START TRANSACTION;
+SET time_zone = "+00:00";
+
+
+/*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
+/*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
+/*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
+/*!40101 SET NAMES utf8mb4 */;
+
+--
+-- Banco de dados: `agenciaviagem`
+--
+
+-- --------------------------------------------------------
+
+--
+-- Estrutura da tabela `pacote`
+--
+
+CREATE TABLE `pacote` (
+  `idpacote` int(11) NOT NULL,
+  `NomePacote` varchar(100) NOT NULL,
+  `origempacote` varchar(100) NOT NULL,
+  `destinopacote` varchar(100) NOT NULL,
+  `atrativos` varchar(100) NOT NULL,
+  `saida` varchar(50) NOT NULL,
+  `retorno` varchar(50) NOT NULL,
+  `idUser` int(11) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+
+-- --------------------------------------------------------
+
+--
+-- Estrutura da tabela `usuario`
+--
+
+CREATE TABLE `usuario` (
+  `iduser` int(11) NOT NULL,
+  `nomeuser` varchar(100) NOT NULL,
+  `datanasc` varchar(20) NOT NULL,
+  `login` varchar(50) NOT NULL,
+  `senha` varchar(20) NOT NULL,
+  `tipo` tinyint(1) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+
+--
+-- Extraindo dados da tabela `usuario`
+--
+
+INSERT INTO `usuario` (`iduser`, `nomeuser`, `datanasc`, `login`, `senha`, `tipo`) VALUES
+(2, 'Maro', '30/01/1988', 'immer', '158797', 1),
+(3, 'Ellen', '29/04/1991', 'ittazke', '225863', 1),
+(4, 'Ricardo', '27/09/2019', 'lucas', '225599', 0),
+(5, 'Ellen', '15/09/2000', 'lucas', '225599', 0);
+
+--
+-- Índices para tabelas despejadas
+--
+
+--
+-- Índices para tabela `pacote`
+--
+ALTER TABLE `pacote`
+  ADD PRIMARY KEY (`idpacote`);
+
+--
+-- Índices para tabela `usuario`
+--
+ALTER TABLE `usuario`
+  ADD PRIMARY KEY (`iduser`);
+
+--
+-- AUTO_INCREMENT de tabelas despejadas
+--
+
+--
+-- AUTO_INCREMENT de tabela `pacote`
+--
+ALTER TABLE `pacote`
+  MODIFY `idpacote` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=4;
+
+--
+-- AUTO_INCREMENT de tabela `usuario`
+--
+ALTER TABLE `usuario`
+  MODIFY `iduser` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=6;
+COMMIT;
+
+/*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
+/*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
+/*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;

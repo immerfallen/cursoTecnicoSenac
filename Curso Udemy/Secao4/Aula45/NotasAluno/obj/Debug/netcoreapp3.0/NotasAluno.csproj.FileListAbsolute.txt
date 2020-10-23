@@ -1,0 +1,11 @@
+C:\Users\maro_\Desktop\CS\Curso Udemy\Secao4\Aula45\NotasAluno\bin\Debug\netcoreapp3.0\NotasAluno.exe
+C:\Users\maro_\Desktop\CS\Curso Udemy\Secao4\Aula45\NotasAluno\bin\Debug\netcoreapp3.0\NotasAluno.deps.json
+C:\Users\maro_\Desktop\CS\Curso Udemy\Secao4\Aula45\NotasAluno\bin\Debug\netcoreapp3.0\NotasAluno.runtimeconfig.json
+C:\Users\maro_\Desktop\CS\Curso Udemy\Secao4\Aula45\NotasAluno\bin\Debug\netcoreapp3.0\NotasAluno.runtimeconfig.dev.json
+C:\Users\maro_\Desktop\CS\Curso Udemy\Secao4\Aula45\NotasAluno\bin\Debug\netcoreapp3.0\NotasAluno.dll
+C:\Users\maro_\Desktop\CS\Curso Udemy\Secao4\Aula45\NotasAluno\bin\Debug\netcoreapp3.0\NotasAluno.pdb
+C:\Users\maro_\Desktop\CS\Curso Udemy\Secao4\Aula45\NotasAluno\obj\Debug\netcoreapp3.0\NotasAluno.csprojAssemblyReference.cache
+C:\Users\maro_\Desktop\CS\Curso Udemy\Secao4\Aula45\NotasAluno\obj\Debug\netcoreapp3.0\NotasAluno.AssemblyInfoInputs.cache
+C:\Users\maro_\Desktop\CS\Curso Udemy\Secao4\Aula45\NotasAluno\obj\Debug\netcoreapp3.0\NotasAluno.AssemblyInfo.cs
+C:\Users\maro_\Desktop\CS\Curso Udemy\Secao4\Aula45\NotasAluno\obj\Debug\netcoreapp3.0\NotasAluno.dll
+C:\Users\maro_\Desktop\CS\Curso Udemy\Secao4\Aula45\NotasAluno\obj\Debug\netcoreapp3.0\NotasAluno.pdb

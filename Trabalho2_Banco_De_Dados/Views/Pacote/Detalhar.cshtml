@@ -1,0 +1,23 @@
+@model Pacote
+<h1>Detalhes do pacote</h1>
+
+@if(Model != null)
+{
+<p><strong>Id:</strong>@Model.IdPacote</p>
+<p><strong>Nome do pacote:</strong>@Model.NomePacote</p>
+<p><strong>Origem do pacote:</strong>@Model.OrigemPacote</p>
+<p><strong>Destino do pacote:</strong>@Model.DestinoPacote</p>
+<p><strong>Atrativos:</strong>@Model.Atrativos</p>
+<p><strong>Saída:</strong>@Model.Saida</p>
+<p><strong>Retorno:</strong>@Model.Retorno</p>
+<p><strong>Usuário:</strong>@Model.IdUser</p>
+
+}
+else
+{
+ <p>Pacote não encontrado.</p>
+}
+
+<p><a href="/Pacote/Listar">Voltar para listagem</a></p>
+
+   

@@ -1,0 +1,41 @@
+@model List<Usuario>
+
+<h1>Lista de usuários</h1>
+    <table>
+        <tr>
+            <th>Id</th>
+            <th>Nome</th>
+            <th>Data nasc</th>
+            <th>Login</th>
+            <th>Senha</th>
+            <th>Tipo</th>
+            <th></th>
+            <th></th>
+            <th></th>
+
+        </tr>
+    @foreach(Usuario u in Model)
+    {
+            <tr>
+                <td>@u.IdUser</td>
+                <td>@u.NomeUser</td>
+                <td>@u.DataNasc</td>
+                <td>@u.LogIn</td>
+                <td>@u.Senha</td>
+                @if (u.Tipo)
+                {
+                <td>Administrador</td>
+                }
+                else
+                {
+                    <td>Colaborador</td>
+                }
+                                   
+                <td> <a href="/Usuario/Detalhar?id=@u.IdUser">Detalhar</a></td>
+                <td> <a href="/Usuario/Atualizar?id=@u.IdUser">Atualizar</a></td>
+                <td> <a href="/Usuario/Excluir?id=@u.IdUser">Excluir</a></td>
+            </tr>
+    }
+    </table>
+
+    <a href="/Usuario/Cadastro">Cadastrar mais um usuário.</a>

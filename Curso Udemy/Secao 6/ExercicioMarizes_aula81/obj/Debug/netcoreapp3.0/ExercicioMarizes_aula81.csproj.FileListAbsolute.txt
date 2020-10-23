@@ -1,0 +1,11 @@
+C:\Users\maro_\Desktop\CSharp\Curso Udemy\Secao 6\ExercicioMarizes_aula81\bin\Debug\netcoreapp3.0\ExercicioMarizes_aula81.exe
+C:\Users\maro_\Desktop\CSharp\Curso Udemy\Secao 6\ExercicioMarizes_aula81\bin\Debug\netcoreapp3.0\ExercicioMarizes_aula81.deps.json
+C:\Users\maro_\Desktop\CSharp\Curso Udemy\Secao 6\ExercicioMarizes_aula81\bin\Debug\netcoreapp3.0\ExercicioMarizes_aula81.runtimeconfig.json
+C:\Users\maro_\Desktop\CSharp\Curso Udemy\Secao 6\ExercicioMarizes_aula81\bin\Debug\netcoreapp3.0\ExercicioMarizes_aula81.runtimeconfig.dev.json
+C:\Users\maro_\Desktop\CSharp\Curso Udemy\Secao 6\ExercicioMarizes_aula81\bin\Debug\netcoreapp3.0\ExercicioMarizes_aula81.dll
+C:\Users\maro_\Desktop\CSharp\Curso Udemy\Secao 6\ExercicioMarizes_aula81\bin\Debug\netcoreapp3.0\ExercicioMarizes_aula81.pdb
+C:\Users\maro_\Desktop\CSharp\Curso Udemy\Secao 6\ExercicioMarizes_aula81\obj\Debug\netcoreapp3.0\ExercicioMarizes_aula81.csprojAssemblyReference.cache
+C:\Users\maro_\Desktop\CSharp\Curso Udemy\Secao 6\ExercicioMarizes_aula81\obj\Debug\netcoreapp3.0\ExercicioMarizes_aula81.AssemblyInfoInputs.cache
+C:\Users\maro_\Desktop\CSharp\Curso Udemy\Secao 6\ExercicioMarizes_aula81\obj\Debug\netcoreapp3.0\ExercicioMarizes_aula81.AssemblyInfo.cs
+C:\Users\maro_\Desktop\CSharp\Curso Udemy\Secao 6\ExercicioMarizes_aula81\obj\Debug\netcoreapp3.0\ExercicioMarizes_aula81.dll
+C:\Users\maro_\Desktop\CSharp\Curso Udemy\Secao 6\ExercicioMarizes_aula81\obj\Debug\netcoreapp3.0\ExercicioMarizes_aula81.pdb

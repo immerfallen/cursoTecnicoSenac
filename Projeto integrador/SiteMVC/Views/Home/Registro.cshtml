@@ -1,0 +1,56 @@
+@model Registro
+
+@{
+    Layout = "_Layout2";
+}
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="~/css/registro.css" />
+</head>
+
+<body>
+    
+
+    <div class="novocadastro">
+        <div class="formulario">
+
+            <p style="color:chocolate; font-size: 20px; text-align:center;"> Inscreva-se</p>
+
+            <form action="SalvarRegistro" method="POST">
+                <p>
+                    <label for="Nome">Nome: </label>
+                    <input asp-for="Nome" type="nome" id="nome" placeholder="digite seu nome">
+                </p>
+                <p>
+                    <label for="Email">E-mail </label>
+                    <input asp-for="EMail" type="email" id="email" placeholder="digite seu e-mail">
+                </p>
+                <p>
+                    <label for="Senha">Senha: </label>
+                    <input asp-for="Senha" type="password" id="password" placeholder="digite sua senha">
+                </p>
+                <p>
+                    <input type="submit" name="enviar" value="Cadastrar" id="button">
+                </p>
+            </form>
+        </div>
+
+        
+
+
+
+    </div>
+
+
+
+
+   
+</body>
+
+</html>

@@ -1,0 +1,14 @@
+@model Setor
+<h1>Detalhes do setor</h1>
+
+@if(Model != null)
+{
+<p><strong>Id:</strong>@Model.Id</p>
+<p><strong>Nome:</strong>@Model.Nome</p>
+}
+else
+{
+ <p>Setor não encontrado.</p>
+}
+
+<p><a href="/Setor/Listar">Voltar para listagem</a></p>

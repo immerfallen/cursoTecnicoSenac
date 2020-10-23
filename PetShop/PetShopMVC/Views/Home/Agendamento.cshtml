@@ -1,0 +1,37 @@
+@model Cadastro
+
+<h2>Pré-Agendamento</h2>
+
+<form method="POST">
+
+
+<p>
+        <label asp-for="Nome" class="form"> Nome: </label>
+        <input asp-for="Nome" value=""/>
+    </p>
+    <p>
+        <label asp-for="Telefone" class="form"> Telefone:  </label>
+        <input asp-for="Telefone" value=""/>
+    </p>
+     <p>
+        <label asp-for="Data" class="form"> Data: </label> 
+        <input asp-for="Data" value=""/>                
+    </p>
+     <p>    
+         <label asp-for="Animal" class="form"   > Animal: </label>    
+         <select asp-for="Animal" >
+            <option style="display:none">Selecione o animal </option>
+            <option value="Cachorro"> Cachorro</option>
+            <option value="Gato"> Gato</option>
+            <option value="Roedor"> Roedor</option>
+        </select>  
+     <p>
+        <label asp-for="Necessidade" class="form" > Necessidade: </label> 
+        <input asp-for="Necessidade" style="height: 50px" value=""/>                
+    </p>
+    </p>
+<input type="submit" value = "Enviar" class="form" />
+    </form>
+
+    <a asp-action="Confirmacao"> Mostrar dados cadastrados </a>
+

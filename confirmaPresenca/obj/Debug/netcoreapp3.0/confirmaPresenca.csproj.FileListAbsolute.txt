@@ -1,0 +1,11 @@
+C:\Users\maro_\Desktop\CS\confirmaPresenca\bin\Debug\netcoreapp3.0\confirmaPresenca.exe
+C:\Users\maro_\Desktop\CS\confirmaPresenca\bin\Debug\netcoreapp3.0\confirmaPresenca.deps.json
+C:\Users\maro_\Desktop\CS\confirmaPresenca\bin\Debug\netcoreapp3.0\confirmaPresenca.runtimeconfig.json
+C:\Users\maro_\Desktop\CS\confirmaPresenca\bin\Debug\netcoreapp3.0\confirmaPresenca.runtimeconfig.dev.json
+C:\Users\maro_\Desktop\CS\confirmaPresenca\bin\Debug\netcoreapp3.0\confirmaPresenca.dll
+C:\Users\maro_\Desktop\CS\confirmaPresenca\bin\Debug\netcoreapp3.0\confirmaPresenca.pdb
+C:\Users\maro_\Desktop\CS\confirmaPresenca\obj\Debug\netcoreapp3.0\confirmaPresenca.csprojAssemblyReference.cache
+C:\Users\maro_\Desktop\CS\confirmaPresenca\obj\Debug\netcoreapp3.0\confirmaPresenca.AssemblyInfoInputs.cache
+C:\Users\maro_\Desktop\CS\confirmaPresenca\obj\Debug\netcoreapp3.0\confirmaPresenca.AssemblyInfo.cs
+C:\Users\maro_\Desktop\CS\confirmaPresenca\obj\Debug\netcoreapp3.0\confirmaPresenca.dll
+C:\Users\maro_\Desktop\CS\confirmaPresenca\obj\Debug\netcoreapp3.0\confirmaPresenca.pdb

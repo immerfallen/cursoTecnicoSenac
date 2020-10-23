@@ -1,0 +1,11 @@
+C:\Users\maro_\Desktop\CSharp\Ninja\bin\Debug\netcoreapp3.0\Ninja.exe
+C:\Users\maro_\Desktop\CSharp\Ninja\bin\Debug\netcoreapp3.0\Ninja.deps.json
+C:\Users\maro_\Desktop\CSharp\Ninja\bin\Debug\netcoreapp3.0\Ninja.runtimeconfig.json
+C:\Users\maro_\Desktop\CSharp\Ninja\bin\Debug\netcoreapp3.0\Ninja.runtimeconfig.dev.json
+C:\Users\maro_\Desktop\CSharp\Ninja\bin\Debug\netcoreapp3.0\Ninja.dll
+C:\Users\maro_\Desktop\CSharp\Ninja\bin\Debug\netcoreapp3.0\Ninja.pdb
+C:\Users\maro_\Desktop\CSharp\Ninja\obj\Debug\netcoreapp3.0\Ninja.csprojAssemblyReference.cache
+C:\Users\maro_\Desktop\CSharp\Ninja\obj\Debug\netcoreapp3.0\Ninja.AssemblyInfoInputs.cache
+C:\Users\maro_\Desktop\CSharp\Ninja\obj\Debug\netcoreapp3.0\Ninja.AssemblyInfo.cs
+C:\Users\maro_\Desktop\CSharp\Ninja\obj\Debug\netcoreapp3.0\Ninja.dll
+C:\Users\maro_\Desktop\CSharp\Ninja\obj\Debug\netcoreapp3.0\Ninja.pdb

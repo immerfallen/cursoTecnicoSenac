@@ -1,0 +1,11 @@
+C:\Users\maro_\Desktop\CSharp\Curso Udemy\Secao 6\vetoresProduto - aula 69\bin\Debug\netcoreapp3.0\vetoresProduto - aula 69.exe
+C:\Users\maro_\Desktop\CSharp\Curso Udemy\Secao 6\vetoresProduto - aula 69\bin\Debug\netcoreapp3.0\vetoresProduto - aula 69.deps.json
+C:\Users\maro_\Desktop\CSharp\Curso Udemy\Secao 6\vetoresProduto - aula 69\bin\Debug\netcoreapp3.0\vetoresProduto - aula 69.runtimeconfig.json
+C:\Users\maro_\Desktop\CSharp\Curso Udemy\Secao 6\vetoresProduto - aula 69\bin\Debug\netcoreapp3.0\vetoresProduto - aula 69.runtimeconfig.dev.json
+C:\Users\maro_\Desktop\CSharp\Curso Udemy\Secao 6\vetoresProduto - aula 69\bin\Debug\netcoreapp3.0\vetoresProduto - aula 69.dll
+C:\Users\maro_\Desktop\CSharp\Curso Udemy\Secao 6\vetoresProduto - aula 69\bin\Debug\netcoreapp3.0\vetoresProduto - aula 69.pdb
+C:\Users\maro_\Desktop\CSharp\Curso Udemy\Secao 6\vetoresProduto - aula 69\obj\Debug\netcoreapp3.0\vetoresProduto - aula 69.csprojAssemblyReference.cache
+C:\Users\maro_\Desktop\CSharp\Curso Udemy\Secao 6\vetoresProduto - aula 69\obj\Debug\netcoreapp3.0\vetoresProduto - aula 69.AssemblyInfoInputs.cache
+C:\Users\maro_\Desktop\CSharp\Curso Udemy\Secao 6\vetoresProduto - aula 69\obj\Debug\netcoreapp3.0\vetoresProduto - aula 69.AssemblyInfo.cs
+C:\Users\maro_\Desktop\CSharp\Curso Udemy\Secao 6\vetoresProduto - aula 69\obj\Debug\netcoreapp3.0\vetoresProduto - aula 69.dll
+C:\Users\maro_\Desktop\CSharp\Curso Udemy\Secao 6\vetoresProduto - aula 69\obj\Debug\netcoreapp3.0\vetoresProduto - aula 69.pdb

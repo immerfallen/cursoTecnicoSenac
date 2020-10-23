@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Pensionato_aula_71/1.0.0": {
+        "runtime": {
+          "Pensionato_aula_71.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pensionato_aula_71/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,11 @@
+C:\Users\maro_\Desktop\CSharp\Curso Udemy\Secao 6\Pensionato_aula_71\obj\Debug\netcoreapp3.0\Pensionato_aula_71.csprojAssemblyReference.cache
+C:\Users\maro_\Desktop\CSharp\Curso Udemy\Secao 6\Pensionato_aula_71\obj\Debug\netcoreapp3.0\Pensionato_aula_71.AssemblyInfoInputs.cache
+C:\Users\maro_\Desktop\CSharp\Curso Udemy\Secao 6\Pensionato_aula_71\obj\Debug\netcoreapp3.0\Pensionato_aula_71.AssemblyInfo.cs
+C:\Users\maro_\Desktop\CSharp\Curso Udemy\Secao 6\Pensionato_aula_71\bin\Debug\netcoreapp3.0\Pensionato_aula_71.exe
+C:\Users\maro_\Desktop\CSharp\Curso Udemy\Secao 6\Pensionato_aula_71\bin\Debug\netcoreapp3.0\Pensionato_aula_71.deps.json
+C:\Users\maro_\Desktop\CSharp\Curso Udemy\Secao 6\Pensionato_aula_71\bin\Debug\netcoreapp3.0\Pensionato_aula_71.runtimeconfig.json
+C:\Users\maro_\Desktop\CSharp\Curso Udemy\Secao 6\Pensionato_aula_71\bin\Debug\netcoreapp3.0\Pensionato_aula_71.runtimeconfig.dev.json
+C:\Users\maro_\Desktop\CSharp\Curso Udemy\Secao 6\Pensionato_aula_71\bin\Debug\netcoreapp3.0\Pensionato_aula_71.dll
+C:\Users\maro_\Desktop\CSharp\Curso Udemy\Secao 6\Pensionato_aula_71\bin\Debug\netcoreapp3.0\Pensionato_aula_71.pdb
+C:\Users\maro_\Desktop\CSharp\Curso Udemy\Secao 6\Pensionato_aula_71\obj\Debug\netcoreapp3.0\Pensionato_aula_71.dll
+C:\Users\maro_\Desktop\CSharp\Curso Udemy\Secao 6\Pensionato_aula_71\obj\Debug\netcoreapp3.0\Pensionato_aula_71.pdb

@@ -1,0 +1,47 @@
+@model Registro
+
+
+@{
+    Layout = "_Layout2";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="~/css/login.css" />
+</head>
+
+<body>
+   
+
+    <div class="login">
+        <div class="cadastro">
+            <a href="/Home/Registro">Registre-se</a>
+            <p>Já é registrado? Então faça o login abaixo.</p>
+
+            <p id="pMensagem">@ViewBag.Mensagem</p>
+
+            <form method="POST">
+                <p>
+                    
+                    <input asp-for="EMail" placeholder="digite seu e-mail">
+                </p>
+                <p>
+                    
+                    <input asp-for="Senha" placeholder="digite sua senha">
+                </p>
+                <p>
+                    <input type="submit" name="enviar" value="Enviar" id="button">
+                </p>
+            </form>
+        </div>
+
+       
+
+
+    </div>
+
+</body>

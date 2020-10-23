@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Empregados_aula_78/1.0.0": {
+        "runtime": {
+          "Empregados_aula_78.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Empregados_aula_78/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

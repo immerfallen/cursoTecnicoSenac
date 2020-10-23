@@ -1,0 +1,11 @@
+C:\Users\maro_\Desktop\CS\notasAlunos\bin\Debug\netcoreapp3.0\notasAlunos.exe
+C:\Users\maro_\Desktop\CS\notasAlunos\bin\Debug\netcoreapp3.0\notasAlunos.deps.json
+C:\Users\maro_\Desktop\CS\notasAlunos\bin\Debug\netcoreapp3.0\notasAlunos.runtimeconfig.json
+C:\Users\maro_\Desktop\CS\notasAlunos\bin\Debug\netcoreapp3.0\notasAlunos.runtimeconfig.dev.json
+C:\Users\maro_\Desktop\CS\notasAlunos\bin\Debug\netcoreapp3.0\notasAlunos.dll
+C:\Users\maro_\Desktop\CS\notasAlunos\bin\Debug\netcoreapp3.0\notasAlunos.pdb
+C:\Users\maro_\Desktop\CS\notasAlunos\obj\Debug\netcoreapp3.0\notasAlunos.csprojAssemblyReference.cache
+C:\Users\maro_\Desktop\CS\notasAlunos\obj\Debug\netcoreapp3.0\notasAlunos.AssemblyInfoInputs.cache
+C:\Users\maro_\Desktop\CS\notasAlunos\obj\Debug\netcoreapp3.0\notasAlunos.AssemblyInfo.cs
+C:\Users\maro_\Desktop\CS\notasAlunos\obj\Debug\netcoreapp3.0\notasAlunos.dll
+C:\Users\maro_\Desktop\CS\notasAlunos\obj\Debug\netcoreapp3.0\notasAlunos.pdb

@@ -1,0 +1,11 @@
+C:\Users\maro_\Desktop\CSharp\Curso Udemy\Secao 6\vetoresAltura\bin\Debug\netcoreapp3.0\vetoresAltura.exe
+C:\Users\maro_\Desktop\CSharp\Curso Udemy\Secao 6\vetoresAltura\bin\Debug\netcoreapp3.0\vetoresAltura.deps.json
+C:\Users\maro_\Desktop\CSharp\Curso Udemy\Secao 6\vetoresAltura\bin\Debug\netcoreapp3.0\vetoresAltura.runtimeconfig.json
+C:\Users\maro_\Desktop\CSharp\Curso Udemy\Secao 6\vetoresAltura\bin\Debug\netcoreapp3.0\vetoresAltura.runtimeconfig.dev.json
+C:\Users\maro_\Desktop\CSharp\Curso Udemy\Secao 6\vetoresAltura\bin\Debug\netcoreapp3.0\vetoresAltura.dll
+C:\Users\maro_\Desktop\CSharp\Curso Udemy\Secao 6\vetoresAltura\bin\Debug\netcoreapp3.0\vetoresAltura.pdb
+C:\Users\maro_\Desktop\CSharp\Curso Udemy\Secao 6\vetoresAltura\obj\Debug\netcoreapp3.0\vetoresAltura.csprojAssemblyReference.cache
+C:\Users\maro_\Desktop\CSharp\Curso Udemy\Secao 6\vetoresAltura\obj\Debug\netcoreapp3.0\vetoresAltura.AssemblyInfoInputs.cache
+C:\Users\maro_\Desktop\CSharp\Curso Udemy\Secao 6\vetoresAltura\obj\Debug\netcoreapp3.0\vetoresAltura.AssemblyInfo.cs
+C:\Users\maro_\Desktop\CSharp\Curso Udemy\Secao 6\vetoresAltura\obj\Debug\netcoreapp3.0\vetoresAltura.dll
+C:\Users\maro_\Desktop\CSharp\Curso Udemy\Secao 6\vetoresAltura\obj\Debug\netcoreapp3.0\vetoresAltura.pdb

@@ -1,0 +1,97 @@
+﻿body {
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+}
+
+h1 {
+    margin-block-start: 0em;
+    margin-block-end: 0em;
+    margin-inline-start: 0em;
+    margin-inline-end: 0em;
+    display: inline-flex;
+}
+
+main {
+    height: 100%;
+    width: 100%;
+}
+
+label.form {
+    display: inline-block;
+    width: 120px;
+}
+
+.titulo {
+    position: relative;
+    background-color: darkgray;
+    border-width: thin;
+    border-style: solid;
+    border-color: black;
+    width: 100%;
+    height: 75px;
+}
+
+.vertical {
+    vertical-align: middle;
+}
+
+.menu ul li {
+    display: inline-block;
+}
+
+.menu ul {
+    margin-block-start: 0em;
+    margin-block-end: 0em;
+    margin-inline-start: 0em;
+    margin-inline-end: 0em;
+}
+
+.menu {
+    border-width: thin;
+    border-style: solid;
+    border-color: black;
+    position: relative;
+    width: 100%;
+    height: auto;
+}
+
+.rodape {
+    position: absolute;
+    top: 500px;
+    left: 0px;
+    background-color: darkgray;
+    width: 100%;
+    height: 30px;
+    border-width: thin;
+    border-style: solid;
+    border-color: black;
+}
+
+.rodape p {
+    vertical-align: middle;
+    display: inline;
+}
+
+p {
+    margin-block-start: 0em;
+    margin-block-end: 0em;
+    margin-inline-start: 0em;
+    margin-inline-end: 0em;
+}
+
+label {
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+
+.cachorro {
+    float: left;
+    margin-left: 50px;
+}
+
+.gato {
+    float: right;
+    margin-right: 50px;
+}

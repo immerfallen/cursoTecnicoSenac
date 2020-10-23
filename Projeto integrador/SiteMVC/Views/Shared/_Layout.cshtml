@@ -1,0 +1,63 @@
+﻿@using Microsoft.AspNetCore.Http
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - SiteMVC</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/index.css" />
+</head>
+<body>
+    <header>
+       <header>
+
+        <h1>CoffeMe</h1>
+        <p>Sofisiticação a cada gole!</p>
+
+        <nav class="menu-opcoes">
+            <ul>
+                <li> <a href="/Home/Index"> Início </a></li>
+                <li> <a href="/Home/Loja"> Loja </a></li>
+                <li> <a href="/Home/Sobre"> Sobre nós </a></li>
+                <li> <a href="/Home/Fale"> Fale conosco </a></li>
+                <li> <a href="/Home/Login"> Login </a></li>
+            </ul>
+        </nav>
+        <span style="float:right;color:white ">
+                        @Context.Session.GetString("EMail")  
+                        @if (Context.Session.GetString("EMail") != null)
+                        {
+                            <a href="/Home/Logout">Logoff</a>
+                        }                       
+        </span>
+
+    </header>
+
+    
+    </header>
+    <div >
+        <main>
+            @RenderBody()
+        </main>
+    </div>
+
+     <footer>
+        <div class="contato">
+            <p style="color: yellow; font-size: 24px; font-weight: 400;">Contato</p>
+            <p style="color:white"> coffeeme@coffeeme.com.br</p>
+            <a style="color:white" href="/Home/Fale"> Fale conosco </a>
+        </div>
+        <div class="sobre">
+            <p style="color: yellow; font-size: 24px; font-weight: 400;">Sobre nós</p>
+            <a style="color:white" href="/Home/Sobre"> Nossa visão </a>
+            <a style="color:white " href="/Home/Loja"> Loja </a>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

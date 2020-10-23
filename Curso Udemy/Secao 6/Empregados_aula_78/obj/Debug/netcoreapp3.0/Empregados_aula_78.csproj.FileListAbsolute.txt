@@ -1,0 +1,11 @@
+C:\Users\maro_\Desktop\CSharp\Curso Udemy\Secao 6\Empregados_aula_78\bin\Debug\netcoreapp3.0\Empregados_aula_78.exe
+C:\Users\maro_\Desktop\CSharp\Curso Udemy\Secao 6\Empregados_aula_78\bin\Debug\netcoreapp3.0\Empregados_aula_78.deps.json
+C:\Users\maro_\Desktop\CSharp\Curso Udemy\Secao 6\Empregados_aula_78\bin\Debug\netcoreapp3.0\Empregados_aula_78.runtimeconfig.json
+C:\Users\maro_\Desktop\CSharp\Curso Udemy\Secao 6\Empregados_aula_78\bin\Debug\netcoreapp3.0\Empregados_aula_78.runtimeconfig.dev.json
+C:\Users\maro_\Desktop\CSharp\Curso Udemy\Secao 6\Empregados_aula_78\bin\Debug\netcoreapp3.0\Empregados_aula_78.dll
+C:\Users\maro_\Desktop\CSharp\Curso Udemy\Secao 6\Empregados_aula_78\bin\Debug\netcoreapp3.0\Empregados_aula_78.pdb
+C:\Users\maro_\Desktop\CSharp\Curso Udemy\Secao 6\Empregados_aula_78\obj\Debug\netcoreapp3.0\Empregados_aula_78.csprojAssemblyReference.cache
+C:\Users\maro_\Desktop\CSharp\Curso Udemy\Secao 6\Empregados_aula_78\obj\Debug\netcoreapp3.0\Empregados_aula_78.AssemblyInfoInputs.cache
+C:\Users\maro_\Desktop\CSharp\Curso Udemy\Secao 6\Empregados_aula_78\obj\Debug\netcoreapp3.0\Empregados_aula_78.AssemblyInfo.cs
+C:\Users\maro_\Desktop\CSharp\Curso Udemy\Secao 6\Empregados_aula_78\obj\Debug\netcoreapp3.0\Empregados_aula_78.dll
+C:\Users\maro_\Desktop\CSharp\Curso Udemy\Secao 6\Empregados_aula_78\obj\Debug\netcoreapp3.0\Empregados_aula_78.pdb

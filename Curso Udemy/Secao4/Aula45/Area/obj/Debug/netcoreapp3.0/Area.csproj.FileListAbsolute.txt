@@ -1,0 +1,11 @@
+C:\Users\maro_\Desktop\CS\Curso Udemy\Area\bin\Debug\netcoreapp3.0\Area.exe
+C:\Users\maro_\Desktop\CS\Curso Udemy\Area\bin\Debug\netcoreapp3.0\Area.deps.json
+C:\Users\maro_\Desktop\CS\Curso Udemy\Area\bin\Debug\netcoreapp3.0\Area.runtimeconfig.json
+C:\Users\maro_\Desktop\CS\Curso Udemy\Area\bin\Debug\netcoreapp3.0\Area.runtimeconfig.dev.json
+C:\Users\maro_\Desktop\CS\Curso Udemy\Area\bin\Debug\netcoreapp3.0\Area.dll
+C:\Users\maro_\Desktop\CS\Curso Udemy\Area\bin\Debug\netcoreapp3.0\Area.pdb
+C:\Users\maro_\Desktop\CS\Curso Udemy\Area\obj\Debug\netcoreapp3.0\Area.csprojAssemblyReference.cache
+C:\Users\maro_\Desktop\CS\Curso Udemy\Area\obj\Debug\netcoreapp3.0\Area.AssemblyInfoInputs.cache
+C:\Users\maro_\Desktop\CS\Curso Udemy\Area\obj\Debug\netcoreapp3.0\Area.AssemblyInfo.cs
+C:\Users\maro_\Desktop\CS\Curso Udemy\Area\obj\Debug\netcoreapp3.0\Area.dll
+C:\Users\maro_\Desktop\CS\Curso Udemy\Area\obj\Debug\netcoreapp3.0\Area.pdb

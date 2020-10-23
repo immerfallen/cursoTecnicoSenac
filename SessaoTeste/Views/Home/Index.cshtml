@@ -1,0 +1,16 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<h1>Olá @ViewData["pessoa"]</h1>
+
+<form action="/Home/Login" method="POST">
+
+<p>
+    <label>Nome:</label>
+    <input type="text" name="nome">
+</p>
+<p>
+    <input type="submit" value="Logar">
+</p>
+</form>

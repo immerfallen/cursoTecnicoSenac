@@ -1,0 +1,27 @@
+@model Usuario
+<h1>Detalhes do usuário</h1>
+
+@if(Model != null)
+{
+    <p><strong>Id:</strong>@Model.IdUser</p>
+    <p><strong>Nome:</strong>@Model.NomeUser</p>
+    <p><strong>Data Nascimento:</strong>@Model.DataNasc</p>
+    <p><strong>Log in:</strong>@Model.LogIn</p>
+    <p><strong>Senha:</strong>@Model.Senha</p>
+        @if (Model.Tipo)
+        {
+        <p><strong>Tipo:</strong>Administrador</p>
+        }
+        else
+        {
+        <p><strong>Tipo:</strong>Colaborador</p>
+        }
+
+
+}
+else
+{
+    <p>Usuário não encontrado.</p>
+}
+
+<p><a href="/Usuario/Listar">Voltar para listagem</a></p>

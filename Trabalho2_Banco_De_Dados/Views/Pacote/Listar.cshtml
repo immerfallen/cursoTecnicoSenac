@@ -1,0 +1,37 @@
+@model List<Pacote>
+
+<h1>Lista de pacotes</h1>
+    <table>
+        <tr>
+            <th>Id </th>
+            <th>Nome do pacote</th>
+            <th>Origem do pacote</th>
+            <th>Destino do pacote</th>
+            <th>Atrativos</th>
+            <th>Saída</th>
+            <th>Retorno</th>
+            <th>Usuário</th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+    @foreach(Pacote p in Model)
+    {
+            <tr>
+                <td>@p.IdPacote</td>
+                <td>@p.NomePacote</td>
+                <td>@p.OrigemPacote</td>
+                <td>@p.DestinoPacote</td>
+                <td>@p.Atrativos</td>
+                <td>@p.Saida</td>
+                <td>@p.Retorno</td>
+                <td>@p.IdUser</td>
+                                   
+                <td> <a href="/Pacote/Detalhar?id=@p.IdPacote">Detalhar</a></td>
+                <td> <a href="/Pacote/Atualizar?id=@p.IdPacote">Atualizar</a></td>
+                <td> <a href="/Pacote/Excluir?id=@p.IdPacote">Excluir</a></td>
+            </tr>
+    }
+    </table>
+
+    <a href="/Pacote/Cadastro">Cadastrar mais um pacote.</a>

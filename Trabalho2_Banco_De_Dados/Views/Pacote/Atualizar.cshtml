@@ -1,0 +1,30 @@
+@model Pacote
+
+<h1>Atualização de pacote </h1>
+
+<form action="/Pacote/SalvarAtualizar" method="POST">
+
+<input type="hidden" asp-for="IdPacote">
+<p>
+    <label asp-for="NomePacote">Nome do pacote:</label>
+    <input asp-for="NomePacote">
+    <label asp-for="OrigemPacote">Origem do pacote:</label>
+    <input asp-for="OrigemPacote">
+    <label asp-for="DestinoPacote">Destino do pacote:</label>
+    <input asp-for="DestinoPacote">
+    <label asp-for="Atrativos">Atrativos:</label>
+    <input asp-for="Atrativos">
+    <label asp-for="Saida">Saída:</label>
+    <input asp-for="Saida">
+    <label asp-for="Retorno">Retorno:</label>
+    <input asp-for="Retorno">
+    <label asp-for="IdUser">Usuário:</label>
+    <input asp-for="IdUser">
+
+
+</p>
+<p>
+    <input type="submit" value="Salvar">
+</p>
+
+</form>

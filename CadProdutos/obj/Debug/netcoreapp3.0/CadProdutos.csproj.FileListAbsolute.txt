@@ -1,0 +1,13 @@
+C:\Users\maro_\Desktop\CSharp\CadProdutos\bin\Debug\netcoreapp3.0\CadProdutos.exe
+C:\Users\maro_\Desktop\CSharp\CadProdutos\bin\Debug\netcoreapp3.0\CadProdutos.deps.json
+C:\Users\maro_\Desktop\CSharp\CadProdutos\bin\Debug\netcoreapp3.0\CadProdutos.runtimeconfig.json
+C:\Users\maro_\Desktop\CSharp\CadProdutos\bin\Debug\netcoreapp3.0\CadProdutos.runtimeconfig.dev.json
+C:\Users\maro_\Desktop\CSharp\CadProdutos\bin\Debug\netcoreapp3.0\CadProdutos.dll
+C:\Users\maro_\Desktop\CSharp\CadProdutos\bin\Debug\netcoreapp3.0\CadProdutos.pdb
+C:\Users\maro_\Desktop\CSharp\CadProdutos\bin\Debug\netcoreapp3.0\MySqlConnector.dll
+C:\Users\maro_\Desktop\CSharp\CadProdutos\obj\Debug\netcoreapp3.0\CadProdutos.csprojAssemblyReference.cache
+C:\Users\maro_\Desktop\CSharp\CadProdutos\obj\Debug\netcoreapp3.0\CadProdutos.AssemblyInfoInputs.cache
+C:\Users\maro_\Desktop\CSharp\CadProdutos\obj\Debug\netcoreapp3.0\CadProdutos.AssemblyInfo.cs
+C:\Users\maro_\Desktop\CSharp\CadProdutos\obj\Debug\netcoreapp3.0\CadProdutos.csproj.CopyComplete
+C:\Users\maro_\Desktop\CSharp\CadProdutos\obj\Debug\netcoreapp3.0\CadProdutos.dll
+C:\Users\maro_\Desktop\CSharp\CadProdutos\obj\Debug\netcoreapp3.0\CadProdutos.pdb

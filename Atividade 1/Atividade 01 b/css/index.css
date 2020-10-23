@@ -1,0 +1,43 @@
+.container {
+	
+	width: 1400px;
+	text-align: center;
+	
+	
+}
+
+.painel {
+	width: 1400px;
+	text-align: center;
+	
+		
+}
+
+.painel  li {	
+	display: inline-block;
+    width: 300px;
+	height: 90px;
+	
+	   
+}
+
+.menu-opcoes{
+	position: absolute;
+	top:80px;
+	text-align: center;
+}
+
+.menu-opcoes ul li {
+	height: 30px;
+    display: inline;
+	font-size: 15px;
+	border-right: 1px solid #000;
+	border-left: 1px solid #000;
+	padding: 5px;
+	
+	
+    
+}
+
+
+

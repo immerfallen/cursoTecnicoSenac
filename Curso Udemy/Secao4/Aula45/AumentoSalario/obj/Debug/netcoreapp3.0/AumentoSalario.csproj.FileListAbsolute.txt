@@ -1,0 +1,11 @@
+C:\Users\maro_\Desktop\CS\Curso Udemy\Secao4\Aula45\AumentoSalario\bin\Debug\netcoreapp3.0\AumentoSalario.exe
+C:\Users\maro_\Desktop\CS\Curso Udemy\Secao4\Aula45\AumentoSalario\bin\Debug\netcoreapp3.0\AumentoSalario.deps.json
+C:\Users\maro_\Desktop\CS\Curso Udemy\Secao4\Aula45\AumentoSalario\bin\Debug\netcoreapp3.0\AumentoSalario.runtimeconfig.json
+C:\Users\maro_\Desktop\CS\Curso Udemy\Secao4\Aula45\AumentoSalario\bin\Debug\netcoreapp3.0\AumentoSalario.runtimeconfig.dev.json
+C:\Users\maro_\Desktop\CS\Curso Udemy\Secao4\Aula45\AumentoSalario\bin\Debug\netcoreapp3.0\AumentoSalario.dll
+C:\Users\maro_\Desktop\CS\Curso Udemy\Secao4\Aula45\AumentoSalario\bin\Debug\netcoreapp3.0\AumentoSalario.pdb
+C:\Users\maro_\Desktop\CS\Curso Udemy\Secao4\Aula45\AumentoSalario\obj\Debug\netcoreapp3.0\AumentoSalario.csprojAssemblyReference.cache
+C:\Users\maro_\Desktop\CS\Curso Udemy\Secao4\Aula45\AumentoSalario\obj\Debug\netcoreapp3.0\AumentoSalario.AssemblyInfoInputs.cache
+C:\Users\maro_\Desktop\CS\Curso Udemy\Secao4\Aula45\AumentoSalario\obj\Debug\netcoreapp3.0\AumentoSalario.AssemblyInfo.cs
+C:\Users\maro_\Desktop\CS\Curso Udemy\Secao4\Aula45\AumentoSalario\obj\Debug\netcoreapp3.0\AumentoSalario.dll
+C:\Users\maro_\Desktop\CS\Curso Udemy\Secao4\Aula45\AumentoSalario\obj\Debug\netcoreapp3.0\AumentoSalario.pdb

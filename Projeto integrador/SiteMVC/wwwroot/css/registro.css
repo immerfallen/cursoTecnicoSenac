@@ -1,0 +1,208 @@
+    header {
+        position: relative;
+        background-image: url("mike-kenneally-TD4DBagg2wE-unsplash.jpg");
+        height: 300px;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        position: relative;
+        width: 100%;
+    }
+    
+    header h1 {
+        position: absolute;
+        top: 15%;
+        left: 50%;
+        transform: translate(-50%, -15%);
+        font-size: 50px;
+        font-weight: bold;
+        color: white;
+    }
+    
+    header p {
+        position: absolute;
+        top: 37%;
+        left: 50%;
+        transform: translate(-50%, -37%);
+        font-size: 25px;
+        font-weight: bold;
+        color: yellow;
+    }
+    
+    .menu-opcoes {
+        display: block;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        text-align: center;
+        width: 100%;
+    }
+    
+    .menu-opcoes ul li {
+        display: inline;
+        margin-left: 100px;
+        text-align: center;
+        font-size: 25px;
+    }
+    
+    .menu-opcoes ul {
+        display: block;
+        margin-block-start: 0px;
+        margin-block-end: 0px;
+        margin-inline-start: 0px;
+        margin-inline-end: 0px;
+        padding-inline-start: 0px;
+        width: 100%;
+        border-top: white;
+        border-top-width: 1px;
+        border-top-style: solid;
+        border-bottom: white;
+        border-bottom-width: 1px;
+        border-bottom-style: solid;
+    }
+    
+    .menu-opcoes a {
+        color: white;
+        text-decoration: none;
+    }
+    
+    .container {
+        width: auto;
+    }
+    
+    .login {
+        padding-top: 100px;
+        padding-bottom: 100px;
+        background-image: linear-gradient(to right, sandybrown, white);
+    }
+    
+    .login a {
+        position: relative;
+        left: 44%;
+        top: 25%;
+        font-size: 40px;
+        text-decoration: none;
+        color: chocolate;
+        display: block;
+    }
+    
+    .login p {
+        position: relative;
+        left: 38%;
+        top: 33%;
+        font-size: 20px;
+        text-decoration: none;
+        color: black;
+        display: block;
+    }
+    
+    label {
+        display: block;
+        float: left;
+        margin-top: 3px;
+    }
+    
+    input {
+        width: 300px;
+        margin-top: 5px;
+        border-radius: 5px;
+        background: #cccccc;
+    }
+    
+    #button {
+        margin-left: 120px;
+        width: 150px;
+    }
+    
+    #password {
+        margin-left: 0px;
+        ;
+    }
+    
+    p {
+        display: block;
+        margin-block-start: 0px;
+        margin-block-end: 0px;
+        margin-inline-start: 0px;
+        margin-inline-end: 0px;
+    }
+    
+    h1 {
+        display: block;
+        font-size: 30px;
+        margin-block-start: 0px;
+        margin-block-end: 0px;
+        margin-inline-start: 0px;
+        margin-inline-end: 0px;
+        font-weight: bold;
+    }
+    
+    h2 {
+        display: block;
+        font-size: 20px;
+        margin-block-start: 0px;
+        margin-block-end: opx;
+        margin-inline-start: 0px;
+        margin-inline-end: 0px;
+        font-weight: bold;
+    }
+    
+    footer {
+        background-image: url(mike-kenneally-tNALoIZhqVM-unsplash.jpg);
+        width: 100%;
+        height: 900px;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    
+    .contato {
+        display: block;
+        position: relative;
+        float: right;
+        right: 300px;
+        top: 300px;
+    }
+    
+    .contato p {
+        display: block;
+    }
+    
+    .sobre {
+        display: block;
+        position: relative;
+        right: 500px;
+        top: 300px;
+        float: right;
+    }
+    
+    .sobre a {
+        display: block;
+    }
+    
+    footer h4 {
+        color: white;
+        position: absolute;
+        bottom: 0px;
+        width: 100%;
+        display: block;
+        margin-block-start: 0px;
+        margin-block-end: 0px;
+        margin-inline-start: 0px;
+        margin-inline-end: 0px;
+        font-weight: bold;
+    }
+    
+    .formulario {
+        width: 360px;
+        margin-left: auto;
+        margin-right: auto;
+        height: auto;
+        padding-top: 9px;
+    }
+    
+    .novocadastro {
+        background-image: linear-gradient(to right, sandybrown, white);
+        height: 140px;
+    }

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "jD+XK+oE2LcemlBHdOoegg269OJ1FJVrqzqUNae5YGv8Jk1cK4ZfMBGaNq8MRonkREtRS+jA23eDBuJLcnZBow==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\maro_\\Desktop\\CSharp\\Trabalho2_Banco_De_Dados\\Trabalho2_Banco_De_Dados.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maro_\\.nuget\\packages\\mysqlconnector\\0.66.0\\mysqlconnector.0.66.0.nupkg.sha512",
+    "C:\\Users\\maro_\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

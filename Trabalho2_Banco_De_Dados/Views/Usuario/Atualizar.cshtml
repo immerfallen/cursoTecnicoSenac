@@ -1,0 +1,26 @@
+@model Usuario
+
+<h1>Atualização de usuário </h1>
+
+<form action="/Usuario/SalvarAtualizar" method="POST">
+
+<input type="hidden" asp-for="IdUser">
+<p>
+    <label asp-for="NomeUser">Nome:</label>
+    <input asp-for="NomeUser">
+    <label asp-for="DataNasc">Data nascimento:</label>
+    <input asp-for="DataNasc">
+    <label asp-for="LogIn">Login:</label>
+    <input asp-for="LogIn">
+    <label asp-for="Senha">Senha:</label>
+    <input asp-for="Senha">
+    <label asp-for="Tipo">Administrador:</label>
+    <input asp-for="Tipo">
+
+
+</p>
+<p>
+    <input type="submit" value="Salvar">
+</p>
+
+</form>

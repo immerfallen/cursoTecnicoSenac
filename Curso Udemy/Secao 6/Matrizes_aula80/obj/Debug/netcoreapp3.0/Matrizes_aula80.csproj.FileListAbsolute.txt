@@ -1,0 +1,11 @@
+C:\Users\maro_\Desktop\CSharp\Curso Udemy\Secao 6\Matrizes_aula80\bin\Debug\netcoreapp3.0\Matrizes_aula80.exe
+C:\Users\maro_\Desktop\CSharp\Curso Udemy\Secao 6\Matrizes_aula80\bin\Debug\netcoreapp3.0\Matrizes_aula80.deps.json
+C:\Users\maro_\Desktop\CSharp\Curso Udemy\Secao 6\Matrizes_aula80\bin\Debug\netcoreapp3.0\Matrizes_aula80.runtimeconfig.json
+C:\Users\maro_\Desktop\CSharp\Curso Udemy\Secao 6\Matrizes_aula80\bin\Debug\netcoreapp3.0\Matrizes_aula80.runtimeconfig.dev.json
+C:\Users\maro_\Desktop\CSharp\Curso Udemy\Secao 6\Matrizes_aula80\bin\Debug\netcoreapp3.0\Matrizes_aula80.dll
+C:\Users\maro_\Desktop\CSharp\Curso Udemy\Secao 6\Matrizes_aula80\bin\Debug\netcoreapp3.0\Matrizes_aula80.pdb
+C:\Users\maro_\Desktop\CSharp\Curso Udemy\Secao 6\Matrizes_aula80\obj\Debug\netcoreapp3.0\Matrizes_aula80.csprojAssemblyReference.cache
+C:\Users\maro_\Desktop\CSharp\Curso Udemy\Secao 6\Matrizes_aula80\obj\Debug\netcoreapp3.0\Matrizes_aula80.AssemblyInfoInputs.cache
+C:\Users\maro_\Desktop\CSharp\Curso Udemy\Secao 6\Matrizes_aula80\obj\Debug\netcoreapp3.0\Matrizes_aula80.AssemblyInfo.cs
+C:\Users\maro_\Desktop\CSharp\Curso Udemy\Secao 6\Matrizes_aula80\obj\Debug\netcoreapp3.0\Matrizes_aula80.dll
+C:\Users\maro_\Desktop\CSharp\Curso Udemy\Secao 6\Matrizes_aula80\obj\Debug\netcoreapp3.0\Matrizes_aula80.pdb

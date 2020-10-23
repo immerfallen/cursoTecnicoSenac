@@ -1,0 +1,25 @@
+@model List<Setor>
+
+<h1>Lista de setores</h1>
+    <table>
+        <tr>
+            <th>Id</th>
+            <th>Nome</th>
+            <th></th>
+            <th></th>
+            <th></th>
+
+        </tr>
+    @foreach(Setor s in Model)
+    {
+            <tr>
+                <td>@s.Id</td>
+                <td>@s.Nome</td>
+                <td> <a href="/Setor/Detalhar?id=@s.Id">Detalhar</a></td>
+                <td> <a href="/Setor/Atualizar?id=@s.Id">Atualizar</a></td>
+                <td> <a href="/Setor/Excluir?id=@s.Id">Excluir</a></td>
+            </tr>
+    }
+    </table>
+
+    <a href="/Setor/Cadastro">Cadastrar mais um setor.</a>

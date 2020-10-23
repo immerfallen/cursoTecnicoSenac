@@ -1,0 +1,45 @@
+@model Contato
+
+@{
+    Layout = "_Layout2";
+}
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="~/css/fale.css" />
+</head>
+
+<div class="faleconosco">
+        <div class="dados">
+
+            <p style="margin-left:80px;">FALE CONOSCO</p>
+
+            <form asp-action="SalvarContato" method="POST">
+                <p>
+
+                    <input asp-for="Nome" placeholder="Nome">
+                </p>
+                <p>
+
+                    <input asp-for="EMail" placeholder="E-mail">
+                </p>
+                <p>
+
+                    <input asp-for="Assunto" placeholder="Assunto">
+                </p>
+                <p>
+                    <input type="submit" name="enviar" value="Enviar" id="button">
+                </p>
+            </form>
+        </div>
+
+        
+
+
+
+    </div>

@@ -1,0 +1,17 @@
+CREATE DATATABLE coffeeme;
+
+USE coffeeme;
+
+create table contato ( 
+    contatoid int AUTO_INCREMENT PRIMARY KEY,
+    nome varchar(100),
+    email varchar(100),
+    assunto varchar(1000)
+    );
+	
+create table registro (
+    id int primary key AUTO_INCREMENT,
+    nome varchar(100),
+    email varchar(100),
+    senha varchar(50)
+    )

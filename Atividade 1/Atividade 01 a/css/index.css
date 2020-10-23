@@ -1,0 +1,95 @@
+
+.menu-opcoes{
+	position: absolute;
+	top:80px;
+	text-align: center;
+}
+
+.menu-opcoes ul li {
+    display: inline;
+	font-size: 25px;
+	border-right: 1px solid #000;
+	border-left: 1px solid #000;
+	padding: 10px;
+	
+	
+    
+}
+.menu-categorias {
+	float: left;
+	width: 200px;
+	height: 500px;
+	font-size: 15px;
+	
+	
+}
+
+.menu-categorias img {
+	padding-right: 5px;
+	vertical align: baseline;	
+}
+
+
+.menu-categorias h2{
+	margin: 0px;	
+	font-size: 25px;
+	
+}
+
+.menu-categorias li{
+	margin-bottom: 10px;	
+	font-size: 25px;
+	padding-bottom: 30px;
+	
+}
+
+.container {
+	width: 1400px;
+	text-align: center;
+}
+
+.container h1 {
+	text-align: left;
+}
+
+.busca{
+	float: right;
+	position: absolute;
+	top: 20px;
+	left: 1170px
+}
+
+.checkbox {
+	position: absolute;
+	left: 900px;
+	top: 25px;
+	font-size: 15px;
+			
+}
+
+.painel {
+	width: 1200px;
+	margin-left: 200px;
+	height: 800px;
+	
+}
+
+
+.painel h2 {
+	text-align:center;
+	font-size: 25px;
+}
+
+.painel li {
+    display: inline-block;
+    width: 200px;
+	height: 70px;
+    margin-right:30px;
+	
+	
+	 
+}
+
+
+
+

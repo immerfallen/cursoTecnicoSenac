@@ -1,0 +1,28 @@
+@model Aluno
+
+
+<form method="POST">
+
+
+<p>
+        <label asp-for="Nome"> Nome do Aluno </label>
+        <input asp-for="Nome"/>
+    </p>
+    <p>
+        <label asp-for="Idade"> Idade:  </label>
+        <input asp-for="Idade"/>
+    </p>
+     <p>
+        <label asp-for="Disciplina"> Disciplina:  </label>
+        <select asp-for="Disciplina"/>
+            <option value="Português"> Português</option>
+            <option value="Matemática"> Português</option>
+             <option value="Ciência"> Ciência</option>
+             </select>             
+    </p>
+     <p>
+        <label asp-for="Nota"> Nota:  </label>
+        <input asp-for="Nota"/>
+    </p>
+<input type = "submit" value = "Cadastrar"/>
+    </form>
